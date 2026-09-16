@@ -6,10 +6,6 @@ SpillTrace AI is an AI-powered maritime forensic intelligence platform. It detec
 spills from satellite imagery, reconstructs the probable origin of a spill using environmental
 conditions and drift modelling, correlates the reconstructed origin with historical AIS vessel
 trajectories, and ranks potential source vessels using explainable evidence.
-
-> **DEMO DATA** — This foundation build runs entirely on realistic simulated data.
-> Nothing shown in the UI is real-world evidence.
-
 ---
 
 ## Architecture
